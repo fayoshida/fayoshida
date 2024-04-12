@@ -3,7 +3,7 @@
 🚀 Sou um analista do mercado financeiro com experiência em avaliação de crédito em transição de carreira para oportunidades em data science. Sou apaixonado por aprender e explorar novos insights sobre problemas diários ou mesmo existenciais. Trabalhando de forma transparente e direta, diversidade e inclusão são minhas lutas pessoais onde quer que eu vá.
 
 
-## ⚡ **Principais Repositórios:**
+## ⚡ **Principais Repositórios: **
 
 <div id="header" align="center">
  
